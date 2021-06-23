@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TacticalDesign.Console
+namespace TacticalDesign.Client
 {
     class Program
     {
